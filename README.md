@@ -8,5 +8,9 @@ simple web site
 document.getElementById("text").innerHTML = "Text added by JavaScript code";
 </script>
 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/demo.js"></script>
+ 
+<div id="text"></div>
 
 ![Pixabay Cat](https://www.zooplus.de/magazin/wp-content/uploads/2017/12/kitten-eingew%C3%B6hnen.jpeg)
