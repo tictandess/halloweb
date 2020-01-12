@@ -13,4 +13,8 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code";
  
 <div id="text2"></div>
 
+<script src="./json.js"></script>
+ 
+<div id="text3"></div>
+
 ![Pixabay Cat](https://www.zooplus.de/magazin/wp-content/uploads/2017/12/kitten-eingew%C3%B6hnen.jpeg)
